@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hi-Timer</string>
+    <string name="workout_enty">Enter your workout type:</string>
+</resources>
